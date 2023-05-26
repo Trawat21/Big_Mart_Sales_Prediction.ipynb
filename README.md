@@ -1,1 +1,1 @@
-I built this password generator using python. It creates a password of length 12 using alphabets, digits and symbols.
+The aim of this project is to build a predictive model and find out the sales of each product at a particular store. Using this model, BigMart will try to understand the properties of products and stores which play a key role in increasing sales.
